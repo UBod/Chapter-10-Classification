@@ -1,5 +1,8 @@
 # Chapter 10: Classification
+
 ## Data-Driven Categorization of Objects in Tourism
+## http://www.datascience-in-tourism.com/
+
 ***[Ulrich Bodenhofer](https://github.com/Ubod)*** & ***[Andreas Stöckl](https://github.com/astoeckl)***
 
 ### Abstract
