@@ -63,6 +63,6 @@ jupyter notebook
 
 ### Contact
 
-Ulrich Bodenhofer - [Homepage](http://ulrich.bodenhofer.com) - [LinkedIn](https://www.linkedin.com/in/ulrichbodenhofer/) - [Twitter](https://twitter.com/u_bode)
+Ulrich Bodenhofer - [Homepage](http://ulrich.bodenhofer.com) - [LinkedIn](https://www.linkedin.com/in/ulrichbodenhofer/)
 
 Andreas Stöckl - [Homepage](http://www.stoeckl.ai/) - [LinkedIn](https://www.linkedin.com/in/andreas-st%C3%B6ckl-57682113a/) - [Twitter](https://twitter.com/stoecklai)
